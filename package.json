@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/VasilisDev/requestHeader-microservice.git"
 	},
 	"keywords": [
 		"node",
