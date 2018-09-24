@@ -50,5 +50,5 @@ app.use(function(err, req, res, next) {
 var port=process.env.PORT || 8080;
 // listen for requests :)
 var listener = app.listen(port, function () {
-  console.log('Your app is listening on port ' + listener.address().port);
+  console.log('The app is listening on port ' + listener.address().port);
 });
