@@ -7,4 +7,3 @@ $ npm install
 $ node server.js
 ```
 
-Live Demo: <https://cut-chimpanzee.glitch.me/>
